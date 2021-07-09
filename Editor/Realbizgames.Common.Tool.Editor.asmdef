@@ -1,0 +1,22 @@
+{
+    "name": "Realbizgames.Common.Tool.Editor",
+    "references": [
+        "UnityEngine",
+        "UnityEditor",
+        "UnityEditor.Build",
+        "UnityEditor.Build.Reporting",
+        "UnityEngine.CloudBuild",
+        "RealbizGames.Common.Tool.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
